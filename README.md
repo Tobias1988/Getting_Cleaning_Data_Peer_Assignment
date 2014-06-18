@@ -9,4 +9,5 @@
     Use grep to select variables with std
     Use cbind to combine results into one file
     This file is the Tidy Data file with Mean and Standard Deviations Variables
-    Use ColMeans and rowMeans to calculate Averages of columns and observations in two separate files which may be used with     the Tidy Data file
+    Use ColMeans and rowMeans to calculate Averages of columns and observations in 
+    two separate files which may be used with the Tidy Data file

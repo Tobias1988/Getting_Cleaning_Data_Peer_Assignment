@@ -1,3 +1,5 @@
+#for more information please refer to the codebook.md file
+
 features<-read.table("features.txt")
 features<-features$V2
 xtest<- read.table("X_test.txt")

@@ -15,7 +15,7 @@ The Test data and Training data files were downloaded, read into R and combined.
 V1, V2 etc. The Features file was examined and determined to match the length of the combined data file combinex. 
 The features file was read into R and joined with the combined data file to provide variable column headings. 
 These files are output as text files using capture.output The files were renamed with .txt extensions I then 
-used grep to subset features that included Mean, mean ans std in the variable names. These were then combined 
+used grep to subset features that included Mean, mean and std in the variable names. These were then combined 
 in the object "MeansAndStd". The table was reveiwed to determine that it contained all the rows and 86 variable 
 columns representing features representing means and standard deviation measurements.
 
